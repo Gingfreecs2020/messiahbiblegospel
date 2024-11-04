@@ -1,0 +1,27 @@
+{
+    "name": "messiahbiblegospel",
+    "version": "1.0.0",
+    "description": "fivehundred child theme",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "watch": "gulp watch",
+      "build": "gulp build"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+ https://Ging16ika@bitbucket.org/codemess_7/messiahbiblegospel.git"
+    },
+    "author": "Blend IT",
+    "license": "ISC",
+    "homepage": " https://Ging16ika@bitbucket.org/codemess_7/messiahbiblegospel#readme",
+    "devDependencies": {
+      "gulp": "github:gulpjs/gulp",
+      "gulp-autoprefixer": "^8.0.0",
+      "gulp-sass": "^5.1.0",
+      "sass": "^1.52.2"
+    },
+    "dependencies": {
+      "bootstrap-utilities": "^4.1.3"
+    }
+  }
